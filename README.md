@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 Experienced in Unity, Godot, and Unreal Engine, specializing in gameplay programming, systems development, and rapid prototyping. Skilled in C#, GDScript, and visual scripting tools (Unity  and Unreal Blueprints). Strong foundation in game design enables the creation of intuitive and balanced player experiences.
+- 🔭 Game developer and designer with nearly 10 years of experience in Unity and over 5 shipped titles. Passionate about crafting engaging, intuitive player experiences, combining strong technical expertise with creativity and collaboration to deliver polished, memorable games.
 - 💬 Currently working @[Studio Bravarda](https://github.com/StudioBravarda), making a city builder game for computer as a Game Designer and Game Developer.
 - 📫 How to reach me: lucchesi.bru@gmail.com
 - ⚡ Learn more: [brulucchesi.com](brulucchesi.com)
